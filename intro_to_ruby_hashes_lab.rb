@@ -1,5 +1,5 @@
 def new_hash
-	epic_tragedy = {}
+	actor = {}
 end
 
 def actor
